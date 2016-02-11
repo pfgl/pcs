@@ -757,10 +757,6 @@ Stylesheet: Layout Stylesheet
   width: 73%;
   margin-left: 1%;
   margin-right: 1%; }
-  @media only screen and (max-width: 1030px) {
-    #main, .main {
-      width: 64.66667%;
-      margin: 1%; } }
   @media only screen and (max-width: 767px) {
     #main, .main {
       width: 98%;
@@ -809,10 +805,6 @@ Stylesheet: Layout Stylesheet
   width: 23%;
   margin-left: 1%;
   margin-right: 1%; }
-  @media only screen and (max-width: 1030px) {
-    .sidebar {
-      width: 31.33333%;
-      margin: 1%; } }
   @media only screen and (max-width: 767px) {
     .sidebar {
       width: 98%;
