@@ -57,7 +57,7 @@ textarea,
   // a focused input (or hovered on)
   &:focus,
   &:active {
-    background-color: lighten($gray, 4%);
+    background-color: darken(#eee, 10%);
   } // end hover or focus
 
   // error notification

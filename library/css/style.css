@@ -1053,7 +1053,7 @@ textarea,
   textarea:active,
   .field:focus,
   .field:active {
-    background-color: #a3a3a3; }
+    background-color: #d5d5d5; }
   input[type="text"].error, input[type="text"].is-invalid,
   input[type="password"].error,
   input[type="password"].is-invalid,
