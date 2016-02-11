@@ -1017,7 +1017,7 @@ textarea,
   border: 0;
   width: 100%;
   font-family: "Lato", Tahoma, Verdana, Arial, sans-serif;
-  background-color: #B9B8B8;
+  background-color: #eee;
   -webkit-transition: background-color 0.24s ease-in-out;
   transition: background-color 0.24s ease-in-out; }
   input[type="text"]:focus, input[type="text"]:active,

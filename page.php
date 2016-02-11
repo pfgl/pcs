@@ -10,14 +10,15 @@
 
 							<article id="post-<?php the_ID(); ?>" <?php post_class(); ?> role="article" itemscope itemtype="http://schema.org/BlogPosting">
 
-                                <header class="article-header cf">
-                                    <?php if (is_front_page()) {} else { ?>
+                                <?php if (is_front_page()) {} else { ?>
+                                    <header class="article-header cf">
+
                                         <h1 class="entry-title page-title" itemprop="headline">
                                             <?php the_title(); ?>
                                         </h1>
-                                    <?php } ?>
-                                </header> <?php // end article header ?>
 
+                                    </header> <?php // end article header ?>
+                                <?php } ?>
 								<div class="entry-content" itemprop="articleBody">
 									<?php
 										// the content (pretty self explanatory huh)
