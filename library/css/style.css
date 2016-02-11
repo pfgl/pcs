@@ -1454,8 +1454,8 @@ you set a great foundation, you won't need to add too many styles in
 the other stylesheets. Remember, keep it light: Speed is Important.
 *********************/
 /******************************************************************
-Site Name:
-Author:
+Site Name: PCS
+Author: Jack Machin
 
 Stylesheet: Base Mobile Stylesheet
 
@@ -1715,7 +1715,8 @@ POSTS & CONTENT STYLES
   text-transform: uppercase;
   padding: 0 1em;
   font-family: "Century Gothic",Helvetica,sans-serif;
-  float: left; }
+  float: left;
+  line-height: 2em; }
 
 .sub-link {
   margin-top: 0; }
