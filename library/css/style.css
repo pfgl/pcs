@@ -759,7 +759,7 @@ Stylesheet: Layout Stylesheet
   margin-right: 1%; }
   @media only screen and (max-width: 1030px) {
     #main, .main {
-      width: 81.33333%;
+      width: 64.66667%;
       margin: 1%; } }
   @media only screen and (max-width: 767px) {
     #main, .main {
