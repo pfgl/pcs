@@ -4,7 +4,7 @@
 
                     <?php //get_sidebar ('contact');?>
 
-                    <?php //get_sidebar ('legal');?>
+                    <?php get_sidebar ('legal');?>
 
                     <?php //get_sidebar ('testimonials');?>
 
