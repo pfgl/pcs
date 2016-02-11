@@ -82,7 +82,7 @@ $min-width: $break-mobile - 20px; /* Set min width with scroll bar */
 
 	@if $media == desktop {
 
-		@media only screen and (max-width:$break-tablet) {
+		@media only screen and (max-width:$break-desktop) {
 			width: (((100%  / $grid-size) * $col-span) - $gutter ) ;
 			margin: $gutter / 2;
 		}
