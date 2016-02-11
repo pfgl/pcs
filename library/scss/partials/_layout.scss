@@ -78,12 +78,13 @@ Stylesheet: Layout Stylesheet
         .sub-link {
             @include grid(4);
         }
-       .sidebar {
-        @include grid(3);
-        @include break(desktop, 4);
-        @include break(tablet, 12);
-        @include break(mobile, 12);
-       }
+
+        .sidebar {
+            @include grid(3);
+            @include break(desktop, 4);
+            @include break(tablet, 12);
+            @include break(mobile, 12);
+        }
 
 .footer-sidebar {
     @include grid(4);
