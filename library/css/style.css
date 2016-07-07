@@ -1338,7 +1338,8 @@ select {
   max-width: 100px;
   position: relative;
   left: 24px;
-  top: -33px; }
+  top: -33px;
+  transition-timing-function: linear; }
 
 #harrogate-independent {
   top: 295px;
