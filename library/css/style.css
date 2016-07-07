@@ -1436,8 +1436,7 @@ select {
 
 #austyn-james:hover #map-logo-aj {
   display: block;
-  max-width: 150px;
-  background-color: #fff; }
+  max-width: 150px; }
 
 #mcgrath-rathbone {
   top: 400px;
@@ -1510,7 +1509,8 @@ select {
   left: 24px;
   top: -33px;
   transition-timing-function: linear;
-  padding: .25em; }
+  padding: .25em;
+  background-color: #fff; }
 
 /*********************
 BASE (MOBILE) SIZE
