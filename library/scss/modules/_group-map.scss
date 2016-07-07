@@ -44,6 +44,7 @@
     #rutherford-wilkinson:hover {
         #map-logo-rutherford {
             display:block;
+            max-width:100px;
         }
     }
 
@@ -55,6 +56,7 @@
     #harrogate-independent:hover {
         #map-logo-harrogate {
             display:block;
+            max-width:150px;
         }
     }
 
@@ -196,7 +198,6 @@
 .map-logo {
     border: 2px solid #404040;
     display: none;
-    max-width: 100px !important;
     position: relative;
     left: 24px;
     top: -33px;
