@@ -1441,7 +1441,7 @@ select {
   top: 460px;
   left: 350px; }
 
-#platinum-portfolios :hover #map-logo-platinum {
+#platinum-portfolios:hover #map-logo-platinum {
   display: block;
   max-width: 100px; }
 
@@ -1457,9 +1457,17 @@ select {
   top: 291px;
   left: 289px; }
 
+#leedham:hover #map-logo-leedham {
+  display: block;
+  max-width: 100px; }
+
 #shirebrook {
   top: 284px;
   left: 294px; }
+
+#shirebrook:hover #map-logo-shirebrook {
+  display: block;
+  max-width: 100px; }
 
 #financial-connection {
   top: 400px;

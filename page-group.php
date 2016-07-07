@@ -64,10 +64,16 @@
                                 <img class="map-logo" id="map-logo-platinum" src="http://www.pfgl.co.uk/corporate-solutions/files/2016/02/Platinum-logo2-251x300.jpg" alt="Platinum logo.indd">
                             </a>
 			<a id="equilibrium" onclick="selectThis('equilibrium')" href="javascript:void(0);" class="bullet preview">Equilibrium Wealth Management Limited</a>
-			<a id="leedham" onclick="selectThis('leedham')" href="javascript:void(0);" class="bullet preview">Leedham Independent Financial Advisers Limited</a>
+
+                            <a id="leedham" onclick="selectThis('leedham')" href="javascript:void(0);" class="bullet preview">Leedham Independent Financial Advisers Limited
+                                <img class="map-logo" id="map-logo-leedham" src="http://www.pfgl.co.uk/corporate-solutions/files/2016/02/Leedham_logo-300x81.jpg" alt="LH:Layout 1">
+                            </a>
 			<a id="austyn-james" onclick="selectThis('austyn-james')" href="javascript:void(0);" class="bullet preview">Austyn James Consulting Limited</a>
 			<a id="mcgrath-rathbone" onclick="selectThis('mcgrath-rathbone')" href="javascript:void(0);" class="bullet preview">McGrath Rathbone Limited</a>
-			<a id="shirebrook" onclick="selectThis('shirebrook')" href="javascript:void(0);" class="bullet preview">Shirebrook Wealth Management Limited</a>
+
+                            <a id="shirebrook" onclick="selectThis('shirebrook')" href="javascript:void(0);" class="bullet preview">Shirebrook Wealth Management Limited
+                                <img class="map-logo" id="map-logo-shirebrook" src="http://www.pfgl.co.uk/corporate-solutions/files/2016/02/ShirebrookLogo-300x102.gif" alt="ShirebrookLogo">
+                            </a>
 			<a id="ad-valorem" onclick="selectThis('ad-valorem')" href="javascript:void(0);" class="bullet preview">Ad Valorem Wealth Management Solutions Limited</a>
 			<a id="keypi" onclick="selectThis('keypi')" href="javascript:void(0);" class="bullet preview">Key Pensions &amp; Investments Limited</a>
 			<!--<a id="financial-connection" href="<?php //bloginfo ('template_url'); ?>/images/ifa-logos/financial-connection.jpg" class="bullet preview">Financial Connection Wealth Management Limited</a>-->

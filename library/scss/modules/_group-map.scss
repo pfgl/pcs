@@ -190,7 +190,7 @@
     }
 
 
-     #platinum-portfolios :hover {
+     #platinum-portfolios:hover {
         #map-logo-platinum {
             display:block;
             max-width:100px;
@@ -208,14 +208,30 @@
     }
 
     #leedham {
-    top: 291px;
-    left: 289px;
+        top: 291px;
+        left: 289px;
+    }
+
+
+    #leedham:hover {
+        #map-logo-leedham {
+            display:block;
+            max-width:100px;
+        }
     }
 
     #shirebrook {
-    top: 284px;
-    left: 294px;
+        top: 284px;
+        left: 294px;
     }
+
+    #shirebrook:hover {
+        #map-logo-shirebrook {
+            display:block;
+            max-width:100px;
+        }
+    }
+
 
     #financial-connection {
         top: 400px;
