@@ -1469,7 +1469,7 @@ select {
 
 #equilibrium:hover #map-logo-equi {
   display: block;
-  max-width: 150; }
+  max-width: 150px; }
 
 #keypi {
   top: 445px;
