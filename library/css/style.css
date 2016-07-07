@@ -1421,10 +1421,6 @@ select {
   display: block;
   max-width: 150px; }
 
-#chambers-co {
-  top: 381px;
-  left: 396px; }
-
 #chessman-partners {
   top: 397px;
   left: 322px; }
@@ -1440,7 +1436,8 @@ select {
 
 #austyn-james:hover #map-logo-aj {
   display: block;
-  max-width: 150px; }
+  max-width: 150px;
+  background-color: #fff; }
 
 #mcgrath-rathbone {
   top: 400px;
@@ -1449,10 +1446,6 @@ select {
 #mcgrath-rathbone:hover #map-logo-mrifa {
   display: block;
   max-width: 150px; }
-
-#charles-reynolds-associates {
-  top: 392px;
-  left: 373px; }
 
 #pims {
   top: 441px;
@@ -1474,9 +1467,17 @@ select {
   top: 430px;
   left: 280px; }
 
+#equilibrium :hover #map-logo-equi {
+  display: block;
+  max-width: 150; }
+
 #keypi {
   top: 445px;
   left: 255px; }
+
+#keypi:hover #map-logo-key {
+  display: block;
+  max-width: 150px; }
 
 #leedham {
   top: 291px;

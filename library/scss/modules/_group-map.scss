@@ -65,7 +65,6 @@
         left: 305px;
     }
 
-
     #multiplex:hover {
         #map-logo-multiplex {
             display:block;
@@ -74,13 +73,12 @@
         }
     }
 
-
     #ad-valorem {
         top: 348px;
         left: 301px;
     }
 
-     #ad-valorem:hover {
+    #ad-valorem:hover {
         #map-logo-ad {
             display:block;
             max-width:150px;
@@ -88,8 +86,8 @@
     }
 
     #perspective-group {
-    top: 325px;
-    left: 300px;
+        top: 325px;
+        left: 300px;
     }
 
    #perspective-group:hover {
@@ -105,7 +103,7 @@
         left: 340px;
     }
 
-   #warnes-anderton:hover {
+    #warnes-anderton:hover {
         #map-logo-warnes {
             display:block;
             max-width:150px;
@@ -196,6 +194,7 @@
         #map-logo-aj {
             display:block;
             max-width:150px;
+            background-color:#fff;
         }
     }
 
@@ -246,6 +245,7 @@
         #map-logo-equi {
             display:block;
             max-width:150
+         }
     }
 
     #keypi {
