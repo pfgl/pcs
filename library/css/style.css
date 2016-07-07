@@ -1509,7 +1509,8 @@ select {
   position: relative;
   left: 24px;
   top: -33px;
-  transition-timing-function: linear; }
+  transition-timing-function: linear;
+  padding: .25em; }
 
 /*********************
 BASE (MOBILE) SIZE
