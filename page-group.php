@@ -85,7 +85,9 @@
                                 <img class="map-logo" id="map-logo-platinum" src="http://www.pfgl.co.uk/corporate-solutions/files/2016/02/Platinum-logo2-251x300.jpg" alt="Platinum logo.indd">
                             </a>
 
-                            <a id="equilibrium" onclick="selectThis('equilibrium')" href="javascript:void(0);" class="bullet preview">Equilibrium Wealth Management Limited</a>
+                            <a id="equilibrium" onclick="selectThis('equilibrium')" href="javascript:void(0);" class="bullet preview">Equilibrium Wealth Management Limited
+                                <img class="map-log" id="map-logo-equi" src="http://www.pfgl.co.uk/corporate-solutions/files/2016/02/EWM_logosmall1-300x170.jpg" alt="EWM_logo(small)1">
+                            </a>
 
                             <a id="leedham" onclick="selectThis('leedham')" href="javascript:void(0);" class="bullet preview">Leedham Independent Financial Advisers Limited
                                 <img class="map-logo" id="map-logo-leedham" src="http://www.pfgl.co.uk/corporate-solutions/files/2016/02/Leedham_logo-300x81.jpg" alt="LH:Layout 1">
@@ -107,9 +109,12 @@
                             <a id="ad-valorem" onclick="selectThis('ad-valorem')" href="javascript:void(0);" class="bullet preview">Ad Valorem Wealth Management Solutions Limited
                                 <img class="map-logo" id="map-logo-ad" src="http://www.pfgl.co.uk/corporate-solutions/files/2016/02/AdValorem-Logo.png" alt="AdValorem-Logo" width="220" height="55">
                             </a>
-			<a id="keypi" onclick="selectThis('keypi')" href="javascript:void(0);" class="bullet preview">Key Pensions &amp; Investments Limited</a>
-		</div><!--ifa-map-->
-								</div>
+
+                            <a id="keypi" onclick="selectThis('keypi')" href="javascript:void(0);" class="bullet preview">Key Pensions &amp; Investments Limited
+                                <img class="map-logo" id="map-logo-key" src="http://www.pfgl.co.uk/corporate-solutions/files/2016/02/Key_logo_final-300x41.png" alt="Key_logo_final">
+                            </a>
+		                  </div><!--ifa-map-->
+                        </div>
 
                                 <footer class="article-footer">
 

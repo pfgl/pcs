@@ -66,7 +66,7 @@
     }
 
 
-     #multiplex:hover {
+    #multiplex:hover {
         #map-logo-multiplex {
             display:block;
             max-width:150px;
@@ -80,7 +80,7 @@
         left: 301px;
     }
 
-   #ad-valorem:hover {
+     #ad-valorem:hover {
         #map-logo-ad {
             display:block;
             max-width:150px;
@@ -140,7 +140,7 @@
 
     #cambridge-investments {
         top: 375px;
-        left: 350px;
+        left: 350px
     }
 
       #cambridge-investments:hover {
@@ -163,8 +163,8 @@
     }
 
     #perspective-financial {
-    top: 385px;
-    left: 315px;
+        top: 385px;
+        left: 315px;
     }
 
     #perspective-financial:hover {
@@ -172,11 +172,6 @@
             display:block;
             max-width:150px;
         }
-    }
-
-    #chambers-co {
-        top: 381px;
-        left: 396px;
     }
 
     #chessman-partners {
@@ -216,11 +211,6 @@
         }
     }
 
-    #charles-reynolds-associates {
-        top: 392px;
-        left: 373px;
-    }
-
     #pims {
         top: 441px;
         left: 368px;
@@ -240,7 +230,7 @@
     }
 
 
-     #platinum-portfolios:hover {
+    #platinum-portfolios:hover {
         #map-logo-platinum {
             display:block;
             max-width:100px;
@@ -252,9 +242,22 @@
         left: 280px;
     }
 
+     #equilibrium :hover {
+        #map-logo-equi {
+            display:block;
+            max-width:150
+    }
+
     #keypi {
         top: 445px;
         left: 255px;
+    }
+
+     #keypi:hover {
+        #map-logo-key {
+            display:block;
+            max-width:150px;
+        }
     }
 
     #leedham {
