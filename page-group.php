@@ -35,7 +35,7 @@
                             </a>
 
                             <a id="harrogate-independent"  onclick="selectThis('harrogate-independent')" href="javascript:void(0);" class="bullet preview">Harrogate Independent Financial Services
-                            <img class="map-logo" id="map-logo-harrogate" src="http://www.pfgl.co.uk/corporate-solutions/files/2016/02/Harrogate-logo-r-on-w-300x57.jpg" alt="Print">
+                                <img class="map-logo" id="map-logo-harrogate" src="http://www.pfgl.co.uk/corporate-solutions/files/2016/02/Harrogate-logo-r-on-w-300x57.jpg" alt="Print">
                             </a>
 			<a id="multiplex"  onclick="selectThis('multiplex')" href="javascript:void(0);" class="bullet preview">Multiplex</a>
 			<a id="perspective-group" onclick="selectThis('perspective-group')" href="javascript:void(0);" class="bullet preview">Perspective Group</a>
