@@ -1368,7 +1368,8 @@ select {
 
 #perspective-group:hover #map-logo-group {
   display: block;
-  max-width: 150px; }
+  max-width: 150px;
+  z-index: 1; }
 
 #warnes-anderton {
   top: 320px;
@@ -1384,7 +1385,8 @@ select {
 
 #applewood1:hover #map-logo-apple-1 {
   display: block;
-  max-width: 100px; }
+  max-width: 100px;
+  z-index: 1; }
 
 #applewood2 {
   top: 365px;
@@ -1392,7 +1394,8 @@ select {
 
 #applewood2:hover #map-logo-apple-2 {
   display: block;
-  max-width: 100px; }
+  max-width: 100px;
+  z-index: 1; }
 
 #cambridge-investments {
   top: 375px;
@@ -1414,6 +1417,10 @@ select {
   top: 385px;
   left: 315px; }
 
+#perspective-financial:hover #map-logo-pfm {
+  display: block;
+  max-width: 150px; }
+
 #chambers-co {
   top: 381px;
   left: 396px; }
@@ -1421,6 +1428,11 @@ select {
 #chessman-partners {
   top: 397px;
   left: 322px; }
+
+#chessman-partners:hover #map-logo-chess {
+  display: block;
+  max-width: 150px;
+  z-index: 1; }
 
 #austyn-james {
   top: 420px;

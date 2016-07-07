@@ -61,8 +61,8 @@
     }
 
     #multiplex {
-    top: 307px;
-    left: 305px;
+        top: 307px;
+        left: 305px;
     }
 
 
@@ -96,6 +96,7 @@
         #map-logo-group {
             display:block;
             max-width:150px;
+             z-index: 1;
         }
     }
 
@@ -120,6 +121,7 @@
         #map-logo-apple-1{
             display:block;
             max-width:100px;
+            z-index: 1;
         }
     }
 
@@ -132,6 +134,7 @@
         #map-logo-apple-2{
             display:block;
             max-width:100px;
+             z-index: 1;
         }
     }
 
@@ -164,6 +167,13 @@
     left: 315px;
     }
 
+    #perspective-financial:hover {
+        #map-logo-pfm {
+            display:block;
+            max-width:150px;
+        }
+    }
+
     #chambers-co {
         top: 381px;
         left: 396px;
@@ -172,6 +182,14 @@
     #chessman-partners {
         top: 397px;
         left: 322px;
+    }
+
+    #chessman-partners:hover {
+        #map-logo-chess {
+            display:block;
+            max-width:150px;
+             z-index: 1;
+        }
     }
 
     #austyn-james {

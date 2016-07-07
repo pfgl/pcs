@@ -68,8 +68,14 @@
 
                                 <img class="map-logo" id="map-logo-wingham" src="http://www.pfgl.co.uk/corporate-solutions/files/2016/02/WW-300x163.jpg" alt="Microsoft Word - WWDoc Logo _2_">
                             </a>
-			<a id="perspective-financial" onclick="selectThis('perspective-financial')"  href="javascript:void(0);" class="bullet preview">Perspective Financial Management Ltd </a>
-			<a id="chessman-partners" onclick="selectThis('chessman-partners')"  href="javascript:void(0);" class="bullet preview">Chessman &amp; Partners Ltd</a>
+
+                            <a id="perspective-financial" onclick="selectThis('perspective-financial')"  href="javascript:void(0);" class="bullet preview">Perspective Financial Management Ltd
+                                <img class="map-logo" id="map-logo-pfm" src="http://www.pfgl.co.uk/corporate-solutions/files/2016/02/PWM-logo-white-300x61.jpg" alt="Print" >
+                            </a>
+
+                            <a id="chessman-partners" onclick="selectThis('chessman-partners')"  href="javascript:void(0);" class="bullet preview">Chessman &amp; Partners Ltd
+                                <img class="map-logo" id="map-logo-chess" src="http://www.pfgl.co.uk/corporate-solutions/files/2016/02/CHESSMAN-logo-300x83.gif" alt="CHESSMAN-logo">
+                            </a>
 
                             <a id="pims" onclick="selectThis('pims')"  href="javascript:void(0);" class="bullet preview">Professional Investment Management Services (Maidstone) Ltd
                                 <img class="map-logo" id="map-logo-pims" src="http://www.pfgl.co.uk/corporate-solutions/files/2016/02/PIMS-Chartered-Financial-Planners-300x130.jpg" alt="PIMS Chartered Financial Planners">
@@ -78,7 +84,8 @@
                             <a id="platinum-portfolios" onclick="selectThis('platinum-portfolios')"  href="javascript:void(0);" class="bullet preview">Platinum Portfolios
                                 <img class="map-logo" id="map-logo-platinum" src="http://www.pfgl.co.uk/corporate-solutions/files/2016/02/Platinum-logo2-251x300.jpg" alt="Platinum logo.indd">
                             </a>
-			<a id="equilibrium" onclick="selectThis('equilibrium')" href="javascript:void(0);" class="bullet preview">Equilibrium Wealth Management Limited</a>
+
+                            <a id="equilibrium" onclick="selectThis('equilibrium')" href="javascript:void(0);" class="bullet preview">Equilibrium Wealth Management Limited</a>
 
                             <a id="leedham" onclick="selectThis('leedham')" href="javascript:void(0);" class="bullet preview">Leedham Independent Financial Advisers Limited
                                 <img class="map-logo" id="map-logo-leedham" src="http://www.pfgl.co.uk/corporate-solutions/files/2016/02/Leedham_logo-300x81.jpg" alt="LH:Layout 1">
@@ -96,7 +103,6 @@
                                 <img class="map-logo" id="map-logo-ad" src="http://www.pfgl.co.uk/corporate-solutions/files/2016/02/AdValorem-Logo.png" alt="AdValorem-Logo" width="220" height="55">
                             </a>
 			<a id="keypi" onclick="selectThis('keypi')" href="javascript:void(0);" class="bullet preview">Key Pensions &amp; Investments Limited</a>
-			<!--<a id="financial-connection" href="<?php //bloginfo ('template_url'); ?>/images/ifa-logos/financial-connection.jpg" class="bullet preview">Financial Connection Wealth Management Limited</a>-->
 		</div><!--ifa-map-->
 								</div>
 
