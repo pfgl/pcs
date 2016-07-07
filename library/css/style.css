@@ -1453,7 +1453,8 @@ select {
 
 #pims:hover #map-logo-pims {
   display: block;
-  max-width: 150px; }
+  max-width: 150px;
+  z-index: 1; }
 
 #platinum-portfolios {
   top: 460px;
