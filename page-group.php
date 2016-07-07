@@ -39,9 +39,13 @@
                             </a>
 
                             <a id="multiplex"  onclick="selectThis('multiplex')" href="javascript:void(0);" class="bullet preview">Multiplex
-                            <img class="map-logo" id="map-logo-multiplex" src="http://www.pfgl.co.uk/corporate-solutions/files/2016/02/multiplex-logo-300x86.jpg" alt="multiplex logo">
+                                <img class="map-logo" id="map-logo-multiplex" src="http://www.pfgl.co.uk/corporate-solutions/files/2016/02/multiplex-logo-300x86.jpg" alt="multiplex logo">
                             </a>
-			<a id="perspective-group" onclick="selectThis('perspective-group')" href="javascript:void(0);" class="bullet preview">Perspective Group</a>
+
+                            <a id="perspective-group" onclick="selectThis('perspective-group')" href="javascript:void(0);" class="bullet preview">Perspective Group
+
+                                <img class="map-logo" id="map-logo-group" src="http://www.pfgl.co.uk/wp-content/themes/pfgl/library/images/logo.png" alt="Perspective Financial Group Limited">
+                            </a>
                             <a id="warnes-anderton" onclick="selectThis('warnes-anderton')"  href="javascript:void(0);" class="bullet preview">Warnes Anderton
                                 <img class="map-logo" id="map-logo-warnes" src="http://www.pfgl.co.uk/corporate-solutions/files/2016/02/WA-logo-white-300x48.jpg" alt="Print">
                             </a>
@@ -49,8 +53,16 @@
                             <a id="cambridge-investments" onclick="selectThis('cambridge-investments')"  href="javascript:void(0);" class="bullet preview">Cambridge Investments Limited
                                 <img class="map-logo" id="map-logo-cambridge" src="http://www.pfgl.co.uk/corporate-solutions/files/2016/02/CIL_logo-300x87.jpg" alt="CIL_logo">
                             </a>
-			<a id="applewood1" onclick="selectThis('applewood1')"  href="javascript:void(0);" class="bullet preview">Applewood Wealth Management Ltd</a>
-			<a id="applewood2" onclick="selectThis('applewood2')"  href="javascript:void(0);" class="bullet preview">Applewood Wealth Management Ltd</a>
+
+                            <a id="applewood1" onclick="selectThis('applewood1')"  href="javascript:void(0);" class="bullet preview">Applewood Wealth Management Ltd
+
+                                <img class="map-logo" id="map-logo-apple-1" src="http://www.pfgl.co.uk/corporate-solutions/files/2016/02/Applewood-logo-272x300.jpg" alt="pauls new">
+                            </a>
+
+                            <a id="applewood2" onclick="selectThis('applewood2')"  href="javascript:void(0);" class="bullet preview">Applewood Wealth Management Ltd
+
+                                <img class="map-logo" id="map-logo-apple-2" src="http://www.pfgl.co.uk/corporate-solutions/files/2016/02/Applewood-logo-272x300.jpg" alt="pauls new">
+                            </a>
 
                             <a id="wingham-wyatt" onclick="selectThis('wingham-wyatt')" href="javascript:void(0);" class="bullet preview">Wingham Wyatt Financial Services Ltd
 
@@ -60,7 +72,7 @@
 			<a id="chessman-partners" onclick="selectThis('chessman-partners')"  href="javascript:void(0);" class="bullet preview">Chessman &amp; Partners Ltd</a>
 
                             <a id="pims" onclick="selectThis('pims')"  href="javascript:void(0);" class="bullet preview">Professional Investment Management Services (Maidstone) Ltd
-                            <img class="map-logo" id="map-logo-pims" src="http://www.pfgl.co.uk/corporate-solutions/files/2016/02/PIMS-Chartered-Financial-Planners-300x130.jpg" alt="PIMS Chartered Financial Planners">
+                                <img class="map-logo" id="map-logo-pims" src="http://www.pfgl.co.uk/corporate-solutions/files/2016/02/PIMS-Chartered-Financial-Planners-300x130.jpg" alt="PIMS Chartered Financial Planners">
                             </a>
 
                             <a id="platinum-portfolios" onclick="selectThis('platinum-portfolios')"  href="javascript:void(0);" class="bullet preview">Platinum Portfolios
@@ -71,13 +83,18 @@
                             <a id="leedham" onclick="selectThis('leedham')" href="javascript:void(0);" class="bullet preview">Leedham Independent Financial Advisers Limited
                                 <img class="map-logo" id="map-logo-leedham" src="http://www.pfgl.co.uk/corporate-solutions/files/2016/02/Leedham_logo-300x81.jpg" alt="LH:Layout 1">
                             </a>
-			<a id="austyn-james" onclick="selectThis('austyn-james')" href="javascript:void(0);" class="bullet preview">Austyn James Consulting Limited</a>
-			<a id="mcgrath-rathbone" onclick="selectThis('mcgrath-rathbone')" href="javascript:void(0);" class="bullet preview">McGrath Rathbone Limited</a>
+
+                            <a id="austyn-james" onclick="selectThis('austyn-james')" href="javascript:void(0);" class="bullet preview">Austyn James Consulting Limited</a>
+
+                            <a id="mcgrath-rathbone" onclick="selectThis('mcgrath-rathbone')" href="javascript:void(0);" class="bullet preview">McGrath Rathbone Limited</a>
 
                             <a id="shirebrook" onclick="selectThis('shirebrook')" href="javascript:void(0);" class="bullet preview">Shirebrook Wealth Management Limited
                                 <img class="map-logo" id="map-logo-shirebrook" src="http://www.pfgl.co.uk/corporate-solutions/files/2016/02/ShirebrookLogo-300x102.gif" alt="ShirebrookLogo">
                             </a>
-			<a id="ad-valorem" onclick="selectThis('ad-valorem')" href="javascript:void(0);" class="bullet preview">Ad Valorem Wealth Management Solutions Limited</a>
+
+                            <a id="ad-valorem" onclick="selectThis('ad-valorem')" href="javascript:void(0);" class="bullet preview">Ad Valorem Wealth Management Solutions Limited
+                                <img class="map-logo" id="map-logo-ad" src="http://www.pfgl.co.uk/corporate-solutions/files/2016/02/AdValorem-Logo.png" alt="AdValorem-Logo" width="220" height="55">
+                            </a>
 			<a id="keypi" onclick="selectThis('keypi')" href="javascript:void(0);" class="bullet preview">Key Pensions &amp; Investments Limited</a>
 			<!--<a id="financial-connection" href="<?php //bloginfo ('template_url'); ?>/images/ifa-logos/financial-connection.jpg" class="bullet preview">Financial Connection Wealth Management Limited</a>-->
 		</div><!--ifa-map-->

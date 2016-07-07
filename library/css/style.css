@@ -1351,15 +1351,24 @@ select {
 
 #multiplex:hover #map-logo-multiplex {
   display: block;
-  max-width: 150px; }
+  max-width: 150px;
+  z-index: 1; }
 
 #ad-valorem {
   top: 348px;
   left: 301px; }
 
+#ad-valorem:hover #map-logo-ad {
+  display: block;
+  max-width: 150px; }
+
 #perspective-group {
   top: 325px;
   left: 300px; }
+
+#perspective-group:hover #map-logo-group {
+  display: block;
+  max-width: 150px; }
 
 #warnes-anderton {
   top: 320px;
@@ -1373,9 +1382,17 @@ select {
   top: 345px;
   left: 275px; }
 
+#applewood1:hover #map-logo-apple-1 {
+  display: block;
+  max-width: 100px; }
+
 #applewood2 {
   top: 365px;
   left: 260px; }
+
+#applewood2:hover #map-logo-apple-2 {
+  display: block;
+  max-width: 100px; }
 
 #cambridge-investments {
   top: 375px;
@@ -1456,10 +1473,6 @@ select {
 #shirebrook:hover #map-logo-shirebrook {
   display: block;
   max-width: 150px; }
-
-#financial-connection {
-  top: 400px;
-  left: 395px; }
 
 /* IFA Details */
 .ifa-details {
