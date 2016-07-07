@@ -1467,7 +1467,7 @@ select {
   top: 430px;
   left: 280px; }
 
-#equilibrium :hover #map-logo-equi {
+#equilibrium:hover #map-logo-equi {
   display: block;
   max-width: 150; }
 
