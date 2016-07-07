@@ -42,19 +42,20 @@
     }
 
     #rutherford-wilkinson:hover {
-            #map-logo-rutherford {
-                display:block;
-                max-width: 100px;
-                position: relative;
-                left: 24px;
-                top: -33px;
-                transition-timing-function: linear;
-            }
+        #map-logo-rutherford {
+            display:block;
         }
+    }
 
     #harrogate-independent {
-    top: 295px;
-    left: 331px;
+        top: 295px;
+        left: 331px;
+    }
+
+    #harrogate-independent:hover {
+        #map-logo-harrogate {
+            display:block;
+        }
     }
 
     #multiplex {
@@ -195,4 +196,9 @@
 .map-logo {
     border: 2px solid #404040;
     display: none;
+    max-width: 100px !important;
+    position: relative;
+    left: 24px;
+    top: -33px;
+    transition-timing-function: linear;
 }

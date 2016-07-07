@@ -31,10 +31,12 @@
 
 				        <div class="ifa-map">
                              <a id="rutherford-wilkinson" onclick="selectThis('rutherford-wilkinson')" href="javascript:void(0);" class="bullet preview">Rutherford Wilkinson>
-                                                        <img src="http://www.pfgl.co.uk/corporate-solutions/files/2016/02/RWltd_chartered-300x148.jpg" class="map-logo" id="map-logo-rutherford">
+                                <img src="http://www.pfgl.co.uk/corporate-solutions/files/2016/02/RWltd_chartered-300x148.jpg" class="map-logo" id="map-logo-rutherford">
                             </a>
 
-			<a id="harrogate-independent"  onclick="selectThis('harrogate-independent')" href="javascript:void(0);" class="bullet preview">Harrogate Independent Financial Services</a>
+                            <a id="harrogate-independent"  onclick="selectThis('harrogate-independent')" href="javascript:void(0);" class="bullet preview">Harrogate Independent Financial Services
+                            <img class="map-logo" id="map-logo-harrogate" src="http://www.pfgl.co.uk/corporate-solutions/files/2016/02/Harrogate-logo-r-on-w-300x57.jpg" alt="Print">
+                            </a>
 			<a id="multiplex"  onclick="selectThis('multiplex')" href="javascript:void(0);" class="bullet preview">Multiplex</a>
 			<a id="perspective-group" onclick="selectThis('perspective-group')" href="javascript:void(0);" class="bullet preview">Perspective Group</a>
 			<a id="warnes-anderton" onclick="selectThis('warnes-anderton')"  href="javascript:void(0);" class="bullet preview">Warnes Anderton</a>
