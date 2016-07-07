@@ -91,9 +91,14 @@
                                 <img class="map-logo" id="map-logo-leedham" src="http://www.pfgl.co.uk/corporate-solutions/files/2016/02/Leedham_logo-300x81.jpg" alt="LH:Layout 1">
                             </a>
 
-                            <a id="austyn-james" onclick="selectThis('austyn-james')" href="javascript:void(0);" class="bullet preview">Austyn James Consulting Limited</a>
+                            <a id="austyn-james" onclick="selectThis('austyn-james')" href="javascript:void(0);" class="bullet preview">Austyn James Consulting Limited
+                                <img class="map-logo" id="map-logo-aj" src="http://www.pfgl.co.uk/corporate-solutions/files/2016/02/AJC_logo_Blue_Horizontal_Transparent_April-2016-300x111.png" alt="AJC_logo_Blue_Horizontal_Transparent_April-2016">
+                            </a>
 
-                            <a id="mcgrath-rathbone" onclick="selectThis('mcgrath-rathbone')" href="javascript:void(0);" class="bullet preview">McGrath Rathbone Limited</a>
+                            <a id="mcgrath-rathbone" onclick="selectThis('mcgrath-rathbone')" href="javascript:void(0);" class="bullet preview">McGrath Rathbone Limited
+
+                                <img class="map-logo" id="map-logo-mrifa" src="http://www.pfgl.co.uk/corporate-solutions/files/2016/02/McGrath_Rathbone-300x72.jpg" alt="JO7-0632 layout">
+                            </a>
 
                             <a id="shirebrook" onclick="selectThis('shirebrook')" href="javascript:void(0);" class="bullet preview">Shirebrook Wealth Management Limited
                                 <img class="map-logo" id="map-logo-shirebrook" src="http://www.pfgl.co.uk/corporate-solutions/files/2016/02/ShirebrookLogo-300x102.gif" alt="ShirebrookLogo">
