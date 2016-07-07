@@ -48,10 +48,17 @@
                             </a>
 			<a id="applewood1" onclick="selectThis('applewood1')"  href="javascript:void(0);" class="bullet preview">Applewood Wealth Management Ltd</a>
 			<a id="applewood2" onclick="selectThis('applewood2')"  href="javascript:void(0);" class="bullet preview">Applewood Wealth Management Ltd</a>
-			<a id="wingham-wyatt" onclick="selectThis('wingham-wyatt')" href="javascript:void(0);" class="bullet preview">Wingham Wyatt Financial Services Ltd</a>
+
+                            <a id="wingham-wyatt" onclick="selectThis('wingham-wyatt')" href="javascript:void(0);" class="bullet preview">Wingham Wyatt Financial Services Ltd
+
+                                <img class="map-logo" id="map-logo-wingham" src="http://www.pfgl.co.uk/corporate-solutions/files/2016/02/WW-300x163.jpg" alt="Microsoft Word - WWDoc Logo _2_">
+                            </a>
 			<a id="perspective-financial" onclick="selectThis('perspective-financial')"  href="javascript:void(0);" class="bullet preview">Perspective Financial Management Ltd </a>
 			<a id="chessman-partners" onclick="selectThis('chessman-partners')"  href="javascript:void(0);" class="bullet preview">Chessman &amp; Partners Ltd</a>
-			<a id="pims" onclick="selectThis('pims')"  href="javascript:void(0);" class="bullet preview">Professional Investment Management Services (Maidstone) Ltd</a>
+
+                            <a id="pims" onclick="selectThis('pims')"  href="javascript:void(0);" class="bullet preview">Professional Investment Management Services (Maidstone) Ltd
+                            <img class="map-logo" id="map-logo-pims" src="http://www.pfgl.co.uk/corporate-solutions/files/2016/02/PIMS-Chartered-Financial-Planners-300x130.jpg" alt="PIMS Chartered Financial Planners">
+                            </a>
 			<a id="platinum-portfolios" onclick="selectThis('platinum-portfolios')"  href="javascript:void(0);" class="bullet preview">Platinum Portfolios</a>
 			<a id="equilibrium" onclick="selectThis('equilibrium')" href="javascript:void(0);" class="bullet preview">Equilibrium Wealth Management Limited</a>
 			<a id="leedham" onclick="selectThis('leedham')" href="javascript:void(0);" class="bullet preview">Leedham Independent Financial Advisers Limited</a>

@@ -134,6 +134,13 @@
         left: 368px;
     }
 
+    #wingham-wyatt:hover {
+        #map-logo-wingham {
+            display:block;
+            max-width:100px;
+        }
+    }
+
     #perspective-financial {
     top: 385px;
     left: 315px;
@@ -167,6 +174,14 @@
     #pims {
         top: 441px;
         left: 368px;
+    }
+
+
+    #pims:hover {
+        #map-logo-pims {
+            display:block;
+            max-width:100px;
+        }
     }
 
     #platinum-portfolios {
