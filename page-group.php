@@ -39,8 +39,13 @@
                             </a>
 			<a id="multiplex"  onclick="selectThis('multiplex')" href="javascript:void(0);" class="bullet preview">Multiplex</a>
 			<a id="perspective-group" onclick="selectThis('perspective-group')" href="javascript:void(0);" class="bullet preview">Perspective Group</a>
-			<a id="warnes-anderton" onclick="selectThis('warnes-anderton')"  href="javascript:void(0);" class="bullet preview">Warnes Anderton</a>
-			<a id="cambridge-investments" onclick="selectThis('cambridge-investments')"  href="javascript:void(0);" class="bullet preview">Cambridge Investments Limited</a>
+                            <a id="warnes-anderton" onclick="selectThis('warnes-anderton')"  href="javascript:void(0);" class="bullet preview">Warnes Anderton
+                                <img class="map-logo" id="map-logo-warnes" src="http://www.pfgl.co.uk/corporate-solutions/files/2016/02/WA-logo-white-300x48.jpg" alt="Print">
+                            </a>
+
+                            <a id="cambridge-investments" onclick="selectThis('cambridge-investments')"  href="javascript:void(0);" class="bullet preview">Cambridge Investments Limited
+                                <img class="map-logo" id="map-logo-cambridge" src="http://www.pfgl.co.uk/corporate-solutions/files/2016/02/CIL_logo-300x87.jpg" alt="CIL_logo">
+                            </a>
 			<a id="applewood1" onclick="selectThis('applewood1')"  href="javascript:void(0);" class="bullet preview">Applewood Wealth Management Ltd</a>
 			<a id="applewood2" onclick="selectThis('applewood2')"  href="javascript:void(0);" class="bullet preview">Applewood Wealth Management Ltd</a>
 			<a id="wingham-wyatt" onclick="selectThis('wingham-wyatt')" href="javascript:void(0);" class="bullet preview">Wingham Wyatt Financial Services Ltd</a>

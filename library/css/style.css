@@ -1361,6 +1361,10 @@ select {
   top: 320px;
   left: 340px; }
 
+#warnes-anderton:hover #map-logo-warnes {
+  display: block;
+  max-width: 150px; }
+
 #mcgregors {
   top: 304px;
   left: 358px; }
@@ -1388,6 +1392,10 @@ select {
 #cambridge-investments {
   top: 375px;
   left: 350px; }
+
+#cambridge-investments:hover #map-logo-cambridge {
+  display: block;
+  max-width: 150px; }
 
 #wingham-wyatt {
   top: 400px;
