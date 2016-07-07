@@ -1332,8 +1332,9 @@ select {
 #rutherford-wilkinson {
   top: 230px;
   left: 320px; }
-  #rutherford-wilkinson :hover #map-logo-rutherford {
-    display: block; }
+
+#rutherford-wilkinson:hover #map-logo-rutherford {
+  display: block; }
 
 #harrogate-independent {
   top: 295px;
