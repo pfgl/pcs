@@ -86,7 +86,7 @@
                             </a>
 
                             <a id="equilibrium" onclick="selectThis('equilibrium')" href="javascript:void(0);" class="bullet preview">Equilibrium Wealth Management Limited
-                                <img class="map-log" id="map-logo-equi" src="http://www.pfgl.co.uk/corporate-solutions/files/2016/02/EWM_logosmall1-300x170.jpg" alt="EWM_logo(small)1">
+                                <img class="map-logo" id="map-logo-equi" src="http://www.pfgl.co.uk/corporate-solutions/files/2016/02/EWM_logosmall1-300x170.jpg" alt="EWM_logo(small)1">
                             </a>
 
                             <a id="leedham" onclick="selectThis('leedham')" href="javascript:void(0);" class="bullet preview">Leedham Independent Financial Advisers Limited
