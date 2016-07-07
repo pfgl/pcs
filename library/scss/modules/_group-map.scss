@@ -65,6 +65,15 @@
     left: 305px;
     }
 
+
+     #multiplex:hover {
+        #map-logo-multiplex {
+            display:block;
+            max-width:150px;
+        }
+    }
+
+
     #ad-valorem {
     top: 348px;
     left: 301px;
@@ -85,26 +94,6 @@
             display:block;
             max-width:150px;
         }
-    }
-
-    #mcgregors {
-        top: 304px;
-        left: 358px;
-    }
-
-    #mcgregors2 {
-        top: 323px;
-        left: 338px;
-    }
-
-    #mcgregors3 {
-        top: 336px;
-        left: 343px;
-    }
-
-    #mcgregors4 {
-        top: 358px;
-        left: 284px;
     }
 
     #applewood1 {
@@ -180,7 +169,7 @@
     #pims:hover {
         #map-logo-pims {
             display:block;
-            max-width:100px;
+            max-width:150px;
         }
     }
 
@@ -216,7 +205,7 @@
     #leedham:hover {
         #map-logo-leedham {
             display:block;
-            max-width:100px;
+            max-width:150px;
         }
     }
 
@@ -228,7 +217,7 @@
     #shirebrook:hover {
         #map-logo-shirebrook {
             display:block;
-            max-width:100px;
+            max-width:150px;
         }
     }
 

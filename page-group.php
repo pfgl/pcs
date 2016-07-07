@@ -37,7 +37,10 @@
                             <a id="harrogate-independent"  onclick="selectThis('harrogate-independent')" href="javascript:void(0);" class="bullet preview">Harrogate Independent Financial Services
                                 <img class="map-logo" id="map-logo-harrogate" src="http://www.pfgl.co.uk/corporate-solutions/files/2016/02/Harrogate-logo-r-on-w-300x57.jpg" alt="Print">
                             </a>
-			<a id="multiplex"  onclick="selectThis('multiplex')" href="javascript:void(0);" class="bullet preview">Multiplex</a>
+
+                            <a id="multiplex"  onclick="selectThis('multiplex')" href="javascript:void(0);" class="bullet preview">Multiplex
+                            <img class="map-logo" id="map-logo-multiplex" src="http://www.pfgl.co.uk/corporate-solutions/files/2016/02/multiplex-logo-300x86.jpg" alt="multiplex logo">
+                            </a>
 			<a id="perspective-group" onclick="selectThis('perspective-group')" href="javascript:void(0);" class="bullet preview">Perspective Group</a>
                             <a id="warnes-anderton" onclick="selectThis('warnes-anderton')"  href="javascript:void(0);" class="bullet preview">Warnes Anderton
                                 <img class="map-logo" id="map-logo-warnes" src="http://www.pfgl.co.uk/corporate-solutions/files/2016/02/WA-logo-white-300x48.jpg" alt="Print">
