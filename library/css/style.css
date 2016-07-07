@@ -1332,8 +1332,8 @@ select {
 #rutherford-wilkinson {
   top: 230px;
   left: 320px; }
-  #rutherford-wilkinson :hover {
-    background: url(http://www.pfgl.co.uk/corporate-solutions/files/2016/02/RWltd_chartered-300x148.jpg) no-repeat bottom; }
+  #rutherford-wilkinson :hover #map-logo-rutherford {
+    display: block; }
 
 #harrogate-independent {
   top: 295px;
