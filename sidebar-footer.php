@@ -1,4 +1,4 @@
-<div id="sidebar-footer" role="complementary">
+<div id="sidebar-footer" class="subsidary-statement" role="complementary">
 
     <?php if ( is_active_sidebar( 'sidebar-footer' ) ) : ?>
 
